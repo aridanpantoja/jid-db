@@ -1,0 +1,220 @@
+{
+    "edicoes": [
+      {
+        "2016": [
+            {
+                "titulo": "Desenvolvimento de Fliperamas com Equipamentos Obsoletos e Avaliação da sua Implantação em um Campus do Instituto Federal",
+                "participantes": ["Yulle Gustavo Siqueira de Lima", "Larissa Andrea Dutra Nascimento", "Renan Felipe de Moura Souza", "Caio Túlio Pompel Borges", "Daniel de Oliveira Ferraz"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_623bbc77cb3e458aa8a699aa4acde0ee.pdf"
+            },
+            {
+                "titulo": "Utilização de Infocentro Para Inclusão Digital",
+                "participantes": ["Emanuel Edson Matias Pantoja", "Ronilson Williame Da Silva Pereira", "Maria da Penha de Andrade Abi Harb"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_d6f35e75507c4dd2bee7a59f494627b2.pdf"
+            },
+            {
+                "titulo": "Tecnologia da Informação na Escola: O Uso das Comunicações Virtuais e Impressas nas Escolas Estaduais",
+                "participantes": ["Larissa Estefani Oliveira de Souza", "Adrianne Veras de almeida", "Francisco Romário Farias de Aguiar", "Jamili Sampaio Brito", "Makysandson Pires de Lima", "Pedro Leonardo Costa Viana", "Zeneide Souza do Nascimento", "Almir Pantoja Rodrigues"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_cfb3166241ad45b2acf2f8fb16d0c37f.pdf"
+            },
+            {
+                "titulo": "Recomendações à Usabilidade de Interfaces Digitais, a Fim de Promover a Inclusão Digital de Idosos Amazônidas",
+                "participantes": ["Danilo Teixeira Lima", "Maria da Penha de Andrade Abi Harb"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_280c0f54585c4ba6b020cf746ee65eae.pdf"
+            },
+            {
+                "titulo": "Análise de Usabilidade e Aceitação do Sistema de Arquivos Multimídia (SAM) como Apoio Computacional ao Método de Aprendizagem Baseada em Evidências (ABE) na Medicina Veterinária",
+                "participantes": ["André de Jesus Araújo Ramos", "Yomara Pinheiro Pires"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_4cf735f014434d0f9629629d40fbb3f3.pdf"
+            },
+            {
+                "titulo": "Um Estudo de Caso com Aplicação Interativa Multimodal Para Avaliação de Acesso Local e em Nuvem",
+                "participantes": ["Igor Falcão",  "Carlos Lopes", "Marcos Seruffo", "Carlos Natalino"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_0da0a481a0f64c2c9f885dfcf25cdc19.pdf"
+            },
+            {
+                "titulo": "A Tecnologia da Informação na Sala de Aula: O Facebook como Ferramenta de Ensino Aprendizagem na Sala de Aula",
+                "participantes": ["Fernando Soares Santos", "Eliana do Socorro Rosário da Silva", "Edivane Coutinho Maciel", "Jean Carlos de Carvalho Costa", "José Wilker Carneiro de Andrade", "Jovelina de Oliveira Saraiva", "Paula Valena Santas das Mercês", "Valcenira Costa de Oliveira", "Almir Pantoja Rodrigues"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_d845871ce6c44f0895cab0de2222f305.pdf"
+            },
+            {
+                "titulo": "Estudo Sobre T. I. verde no Campus Universitário de Castanhal",
+                "participantes": ["Pedro Henrique Pontes Oliveira", "Yomara Pinheiro Pires"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_34314fd27c6640d68420b0d09b7f2ecf.pdf"
+            },
+            {
+                "titulo": "Calendário Reserva: Aplicação Web Para Informatizar o Gerenciamento de Alocação de Aulas dos Professores do Campus de Castanhal",
+                "participantes": ["Sandio Maciel", "Ranilson da Silva", "Mayron Lúcio", "Natália Torres"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_195a37ccd2b64a21add3e5c8b97a1314.pdf"
+            },
+            {
+                "titulo": "PhageWeb - Interface Web Para Caracterização de Fagos em Genomas Bacterianos Completos",
+                "participantes": ["Ailton Lopes de Sousa"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_46056f1ea864491aa56a0b99871d9775.pdf"
+            },
+            {
+                "titulo": "Ferramenta Para Avaliar Aspectos Afetivos Por Aplicações Computacionais",
+                "participantes": ["Saulo William Costa", "Ailton Sousa", "Yomara Pires", "Fabíola Araújo"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_5b1eccd47a43490fa523ed704bcfaa9a.pdf"
+            },
+            {
+                "titulo": "Sistema Para Gerenciamento de Experimentos Laboratoriais - LabNutri",
+                "participantes": ["Yomara Pinheiro Pires", "Geisiane de Souza Matos", "João Paulo Franco da Cruz", "Kalef Levy de Lima Pinto", "Moysés Abraham Pereira Lica"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_936392e3911a423c80e96068812d6f40.pdf"
+            }
+        ]
+      }, 
+      {
+        "2017": [
+            {
+                "titulo": "UM ESTUDO SOBRE O USO DE MÉTRICAS DE SEGURANÇA PARA A PROTEÇÃO DA INFORMAÇÃO CONTRA ATAQUES DE ENGENHARIA SOCIAL E DOS EM UM AMBIENTE DE PEQUENAS E MÉDIAS EMPRESAS",
+                "participantes": ["Bruno Henrique Gaignoux Gomes"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_a0fdff052fb54fd6982afc2b8cc2358a.pdf"
+            },
+            {
+                "titulo": "A UTILIZAÇÃO DO ARDUINO NO AUXILIO DOS ESTUDOS DE LÓGICA DE PROGRAMAÇÃO - ESTUDO DE CASO: 1º ARDUINO DAY EM SANTA IZABEL DO PARÁ, REALIZADO NA ESCOLA ESTADUAL TECNOLÓGICA IRMÃ ALBERTINA LEITÃO – EETEPA CAIC, SANTA IZABEL DO PARÁ",
+                "participantes": ["William Akira Iwanaga dos Santos"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_ed63beba9d9e421c84a6ff4b3ef104c9.pdf"
+            },
+            {
+                "titulo": "O SOFTWARE LIVRE GEOGEBRA COMO INOVAÇÃO PARA EVOLUÇÃO DO PROCESSO ENSINO-APRENDIZAGEM DA MATEMÁTICA NA PRIMEIRA TURMA DE CURSO TÉCNICO MÉDIO INTEGRADO EM INFORMÁTICA DO IFPA CAMPUS PARAGOMINAS",
+                "participantes": ["Tarcísio Lemos Monteiro Carvalho", "Hudson Trindade de Souza", "Tahnity Haarad Moura Chaves"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_bc2e0760849c49d5abc5ca193d2fe67c.pdf"
+            },
+            {
+                "titulo": "A TECNOLOGIA DA INFORMAÇÃO NO ENSINO DA MATEMÁTICA",
+                "participantes": ["Samara R. Gomes do Nascimento", "Dandara do S. Araújo Pereira", "Thomas Jorge M. Bastos", "Almir Pantoja Rodrigues"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_1e3173e0cef940db9f9706b3674659ba.pdf"
+            },
+            {
+                "titulo": "IMPLEMENTAÇÃO DE TÉCNICAS DE SEGURANÇA NO MÓDULO DE RESERVAS DE ESPAÇO DO CAMPUS UNIVERSITÁRIO DE CASTANHAL",
+                "participantes": ["Carlos André Barros Lopes, Elizeu Gabriel Ferreira Conde", "Higor Barbosa Silva", "Moysés Abraham Pereira Licá", "Yomara Pinheiro Pires"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_743d9cbee8764a57a9d54e73ec4c5d98.pdf"
+            },
+            {
+                "titulo": "O USO DA TECNOLOGIA DA INFORMAÇÃO NA ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL SILVIO NASCIMENTO, DIRECIONADA A DISCIPLINA DE EDUCAÇÃO FÍSICA.",
+                "participantes": ["Alex Miguel Boaes Pereira", "Antonia Jeane Vieira de Oliveira", "Fernanda de Oliveira Fernandes", "Josy Silva do Nascimento", "Lucas Guilherme Araujo Soares", "Raimunda Joely Sousa Araujo", "Thalia de oliveira Lopes", "Almir Pantoja Rodrigues", "Wanderson Pereira da Cunha"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_d340fd52a8da469aac9adba37c5ce78b.pdf"
+            },
+            {
+                "titulo": "A INCLUSÃO DIGITAL NA TERCEIRA IDADE: DIFICULDADES E INSEGURANÇA NA UTILIZAÇÃO DAS TECNOLOGIAS",
+                "participantes": ["José Ítalo da C. Silva", "Maiara Meireles Reis", "Igor Ruiz Gomes"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_336ab3db4d5f40f283684013a27e0372.pdf"
+            },
+            {
+                "titulo": "OS GAMES E SUA CAPACIDADE DE MANIPULAR JOVENS NO SÉCULO XX",
+                "participantes": ["Madson Alan Vitorino Sousa", "Sabrina Cibely Souza Favacho", "Assunção José Pureza Amaral"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_53b28903dd044d75a8a13756759f189a.pdf"
+            },
+            {
+                "titulo": "MSGCRIPTUS - TROCA DE MENSAGENS SEGURAS",
+                "participantes": ["Alexsandro Ruberval Gomes Sampaio", "Renato Hidaka Torres", "Janaina Laura Barbosa Santos"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_fbcd75717af24b68aeb94425924f669d.pdf"
+            }
+        ]
+      }, 
+      {
+        "2018": [
+            {
+                "titulo": "Gerenciamento de Resíduos Sólidos Recicláveis por Meio do Aplicativo Móvel Destino Sustentável",
+                "participantes": ["Maria Vitória R. Oliveira", "José Ítalo da C. Silva","Luciano A. Teran", "Yomara P. Pires"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_80bbd74fd8764ae8999b15fc987d11dc.pdf"
+            },
+            {
+                "titulo": "Avaliação de Desempenho dos Padrões IEEE 802.11a e 802.11b: Um Estudo em Cenários Ad-Hoc com Mobilidade",
+                "participantes": ["Hygor Jardim da Silva", "Julio Moreira Soares Neto",  "Victor Leonardo Oliveira Brito"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_9dd91af4b01d428685d3dbeb3cc70b0a.pdf"
+            },
+            {
+                "titulo": "Internet das Coisas na Indústria 4.0: uma revisão narrativa",
+                "participantes": ["Marcos Felipe da Silva Silva", "Thiago Pinho Bertolino"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_952e4dfd6ca941aa96441dcc31146d98.pdf"
+            },
+            {
+                "titulo": "Extração de Informações Inerentes a Equinos Através da Utilização de Técnicas Computacionais",
+                "participantes": ["Anne Livia da Fonseca Macedo", "Igor Ruiz Gomes", "Yomara Pinheiro Pires"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_e7aba6298fbd4731ada69f6b83e7fcbc.pdf"
+            },
+            {
+                "titulo": "Transmissão de Dados por Meio de Ondas Sonoras: A utilização da modulação QPSK",
+                "participantes": ["José Ítalo da Costa Silva", "Maria Vitória Rodrigues Oliveira", "Romário da Costa Silva"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_02dfa8604fff482786585497b948b7b8.pdf"
+            },
+            {
+                "titulo": "Automação Residencial para Pessoas com Deficiência",
+                "participantes": ["Maria Vitória Rodrigues Oliveira", "José Ítalo da Costa Silva", "Romário da Costa Silva"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_981f5851f70046fda6a42fd8468422db.pdf"
+            },
+            {
+                "titulo": "Repositórios Institucionais um Estudo de Caso para Avaliar o Grau de Aceitabilidade da Implantação do Sistema “Ri Castanhal” na Universidade Federal do Pará, campus Castanhal.",
+                "participantes": ["Gildson Sousa", "Gilciane Sousa", "Gilberto Gazel"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_4292c63e20e8469995469c8c899e00da.pdf"
+            }
+        ]
+      },
+      {
+        "2019": [
+            {
+                "titulo": "Experiência no PIBID com ensino de computação, programação em blocos e robótica educacional com arduino",
+                "participantes": ["Gabriela Maria Cunha Aguiar", "Thiago Augusto Soares de Sousa", "Albano de Goes Souza", "Carlos Jean Ferreira Quadros"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_33f631e10e024d64851e78e72cf4f055.pdf"
+            },
+            {
+                "titulo": "AlgoBot: Uma ferramenta para o aprendizado de algoritmos e lógica de programação",
+                "participantes": ["Samara Lima de Souza", "Wendy Mendes Galeno", "Fabrício Wickey da Silva Garcia", "Wanderson Cunha Pereira"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_61a64bb6b53145aea1505b70984e801b.pdf"
+            },
+            {
+                "titulo": "Internet das coisas aplicada na educação: um mapeamento sistemático da literatura",
+                "participantes": ["Adrianne Veras de Almeida", "Maria Valquíria M. Soares", "Paulo Robson C. Malcher"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_ce5f5954817d443fb82c290e5316921d.pdf"
+            },
+            {
+                "titulo": "Sistema de irrigação automatizado com placa arduino para Pequenos Produtores Rurais",
+                "participantes": ["Samara Lima de Souza", "Wendy Mendes Galeno", "Laryanne Monaliza dos Reis Costa", "Alana Éulem Fonseca Lima", "Edson Koiti Kudo Yasojima"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_47d7accacea04f70a528850750af6b52.pdf"
+            },
+            {
+                "titulo": "Sistema de controle elétrico em sala do Campus XX - UEPA: Um estudo utilizando arduino",
+                "participantes": ["Juvenal de A. Silva", "Iury R. Castro", "Paulo Vitor B. de Lima", "Anderson Costa"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_fe398717019f41a3a15b79b864a757b6.pdf"
+            },
+            {
+                "titulo": "O uso de sensores para o monitoramento estrutural: uma análise comparativa entre Sensores Elétricos e Ópticos.",
+                "participantes": ["José Ítalo da Costa Silva", "Clenilson Rodrigues da Silveira"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_135368eff11b4fe0a9a7d515a76db72e.pdf"
+            },
+            {
+                "titulo": "Estudo de propriedades ópticas para projeto de biossensores fotônicos",
+                "participantes": ["Evair de Jesus Silva Cunha", "João Claudio Chamma Carvalho"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_da18d9f84cf1476096d4558d7e5b9b93.pdf"
+            },
+            {
+                "titulo": "Conscientização e sustentabilidade: um estudo sobre a utilização de mídias sociais como ferramenta para educação ambiental",
+                "participantes": ["José Ítalo da Costa Silva", "Maria Vitória Rodrigues Oliveira", "Romário da Costa Silva", "Luciano Arruda Teran"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_77ff4808a8ae469b98763259b1ca4d30.pdf"
+            },
+            {
+                "titulo": "Descoberta de conhecimento em banco de dados da polícia rodoviária federal sobre acidentes na br-316 no estado do Pará",
+                "participantes": ["Adriana M. Pinheiro", "Adriano M. Pinheiro", "Adriano R.S. Ferreira", "Danielle C.C. Couto"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_ed3175389c5f444d950280f285549752.pdf"
+            },
+            {
+                "titulo": "A Participação de meninas nas áreas de Tecnologias em Paragominas-Pará-Amazônia-Brasil",
+                "participantes": ["Kátia Bárbara Santos", "Tarcísio Lemos Monteiro Carvalho", "Lorena Da Silva Barbosa"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_20ffbcb6b95f48edab1ba0dccb56a96e.pdf"
+            },
+            {
+                "titulo": "Detecção de placas de velocidade máxima permitida utilizando classificadores em cascata baseado em características haar",
+                "participantes": ["Anne Livia da Fonseca Macedo", "Igor Ruiz Gomes","Yomara Pinheiro Pires"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_d1b864950b6f4c11a04e03e54ebd9833.pdf"
+            },
+            {
+                "titulo": "Esteganografia para segurança digital em um ambiente de virtualização",
+                "participantes": ["Wendy Mendes Galeno", "Samara Lima de Souza", "Edson Koiti Kudo Yasojima", "Carlos Jean Ferreira de Quadros"],
+                "link": "https://5c3fda18-dad5-4d6c-bf8f-4f138cbd1e48.filesusr.com/ugd/b02935_035e8bd27cee49ff8e824ec1e1a92f82.pdf"
+            }
+        ]
+      }
+    ]
+}
